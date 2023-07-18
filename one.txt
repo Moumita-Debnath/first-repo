@@ -3,4 +3,4 @@ I am modified some text.
 
 
 again solve bugs
-add a some new text for conflict.
+add a some new text for conflict
